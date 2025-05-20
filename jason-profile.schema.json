@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jason Joseph Nathan",
+  "alternateName": "J",
+  "givenName": "Jason",
+  "familyName": "Nathan",
+  "url": "https://jasonnathan.github.io",
+  "image": "https://avatars.githubusercontent.com/u/382536?v=4",
+  "email": "mailto:jjnathanjr@pm.me",
+  "sameAs": [
+    "https://github.com/jasonnathan",
+    "https://geekist.co",
+    "https://www.linkedin.com/in/jasonnathan/",
+    "https://x.com/jason_nathan",
+    "https://stackoverflow.com/users/382536/jason-j-nathan",
+    "https://meetme.geekist.co"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Geekist",
+    "url": "https://geekist.co"
+  },
+  "jobTitle": "Principal Consultant, Full-Stack Engineer, Technical Author, OSS Contributor",
+  "description": "Published author of 'NGINX by Example', contributor to OSS including LlamaIndex, Verba, OrbitDB, and Markdown grammar projects. Known for test-driven infrastructure guides, developer ghostwriting, and performance-focused writing.",
+  "knowsAbout": [
+    "NGINX",
+    "JavaScript",
+    "TypeScript",
+    "Bun",
+    "Docker",
+    "Payload CMS",
+    "GitHub Pages",
+    "Static Site Generation",
+    "WordPress",
+    "Rust",
+    "FL Studio",
+    "Markdown",
+    "CI/CD",
+    "OpenAPI"
+  ],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Ngee Ann Polytechnic",
+    "sameAs": "https://www.np.edu.sg/"
+  },
+"hasOccupation": [
+  {
+    "@type": "Occupation",
+    "name": "Technical Author",
+    "description": "Author of deeply practical, test-driven infrastructure guides like 'NGINX by Example Volume 1', with real-world use cases mapped to reproducible CI configurations.",
+    "mainEntityOfPage": "https://geekist.co/nginx-by-example/"
+  },
+  {
+    "@type": "Occupation",
+    "name": "Open Source Contributor",
+    "description": "Contributor to high-impact OSS including LlamaIndex, Verba, OrbitDB, and language tooling. Focuses on documentation, testing, schema standards, and dev UX.",
+    "mainEntityOfPage": "https://github.com/jasonnathan"
+  },
+  {
+    "@type": "Occupation",
+    "name": "Full-Stack Engineer",
+    "description": "Builds developer-first experiences across frontend, backend, and orchestration layers. Proficient in Bun, Node.js, Rust, TypeScript, SQLite, and edge deployments.",
+    "mainEntityOfPage": "https://github.com/jasonnathan"
+  },
+  {
+    "@type": "Occupation",
+    "name": "Performance Consultant",
+    "description": "Performs hands-on audits and tactical interventions for sites with performance, security, or infrastructure bottlenecks. Combines developer instincts with SEO awareness.",
+    "mainEntityOfPage": "https://geekist.co"
+  },
+  {
+    "@type": "Occupation",
+    "name": "Creative Writer",
+    "description": "Merges music composition, storytelling, and system design to build emotionally intelligent tech narratives. Composer and FL Studio practitioner.",
+    "mainEntityOfPage": "https://geekist.co/the-wordsmiths-forge/"
+  },
+  {
+    "@type": "Occupation",
+    "name": "Technical Ghostwriter",
+    "description": "Behind-the-scenes voice for Fortune 500s and developer platforms. Crafts longform, SEO-savvy, deeply insightful thought leadership.",
+    "mainEntityOfPage": "https://geekist.co"
+  },
+  {
+    "@type": "Occupation",
+    "name": "Platform Architect",
+    "description": "Designs scalable, static-first publishing workflows with PayloadCMS, Cloudflare Pages, and custom export transformers. Multi-tenant architecture, editorial pipelines, and mesh VPN-ready.",
+    "mainEntityOfPage": "https://geekist.co"
+  }
+]
+}
