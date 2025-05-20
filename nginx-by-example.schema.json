@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "NGINX by Example",
+  "alternateName": "NGINX by Example — Volume 1",
+  "image": "https://img.geekist.co/wp-content/uploads/1746074660-800x613.png",
+  "description": "A field manual for real-world NGINX deployments. From SSL, wildcard subdomains, caching, and API gateways — to the edge cases no one else writes about.",
+  "author": {
+    "@type": "Person",
+    "name": "Jason Joseph Nathan",
+    "url": "https://jasonnathan.github.io",
+    "sameAs": [
+      "https://geekist.co",
+      "https://www.linkedin.com/in/jasonnathan/",
+      "https://stackoverflow.com/users/382536/jason-j-nathan",
+      "https://github.com/jasonnathan"
+    ]
+  },
+  "url": "https://geekist.co/nginx-by-example/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Geekist",
+    "url": "https://geekist.co"
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "price": "15",
+      "priceCurrency": "USD",
+      "url": "https://www.amazon.com/dp/B0F844D63G",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Amazon"
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "12",
+      "priceCurrency": "USD",
+      "url": "https://leanpub.com/nginxbyexample",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Leanpub"
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "12",
+      "priceCurrency": "USD",
+      "url": "https://geekmaster3.gumroad.com/l/nginx-by-example",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Gumroad"
+      }
+    }
+  ],
+  "bookFormat": "https://schema.org/EBook",
+  "inLanguage": "en",
+  "datePublished": "2025-05-01"
+}
